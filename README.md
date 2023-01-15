@@ -1,5 +1,5 @@
 # Unity-Fokshot-Oyunu
-Oyun Programlama dersi için Unity geliştirdiğim, 2D macera oyunu
+Oyun Programlama dersi için Unity ile geliştirdiğim, 2D macera oyunu
 ![AnaMenu](https://user-images.githubusercontent.com/102833949/212467951-fc960afa-3846-4c5c-905e-7f8a9d617cb8.png)
 
 ![ses](https://user-images.githubusercontent.com/102833949/212467956-063173da-42da-427c-af30-9c4b56d2d37b.png)
